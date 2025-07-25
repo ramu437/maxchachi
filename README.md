@@ -1,2 +1,2 @@
 # maxchachi
-programs
+this is for coding programs
